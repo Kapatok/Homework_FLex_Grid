@@ -1,0 +1,451 @@
+.Fons {
+    background: url(./JPG/oblomki-gorod-sokol-shchit-khalk-hulk-iron-man-komiks-falcon.jpg);
+    background-repeat: round;
+    border: solid;
+    width: 100%;
+    height: 950px;
+}
+
+.border {
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: space-between;   
+}
+
+.border1 {
+    background: url(./JPG/marvel.jpg_large);
+    width: 200px;
+    height: 100%;
+    opacity: 1;
+    background-repeat: round;
+}
+
+.border2 {
+    background:rgb(190, 148, 85);
+    width: 100%;
+    flex-basis: 42%%;
+    opacity: 0.7;
+    border: solid;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.border3 {
+    background: url(./JPG/Sign-Up-Button-PNG-Free-Down.png);
+    width: 150px;
+    height: 100%;
+    opacity: 1;
+    background-repeat: round;
+}   
+
+.dabolblock {
+    height: 77%;
+    width: 99.9%;
+    display: flex;
+}
+
+.dopblock1 {
+    background: url(/GidHud/DC_MARVEL/modal_html/JPG/вертикаль\ MR.jpg);
+    border: 7px inset rgba(164,28,161,0.78);    
+    background-repeat: round;
+    width: 350px;
+    height: 100%;
+    float: left;
+}
+
+h1 {
+    text-align: center;
+}
+.MR1 {
+    color:azure;
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 12px;
+}
+
+.MR {
+    color:azure;
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 12px;
+}
+
+.jpgfil {
+    float: left;
+}
+
+.li {
+    float: left;
+
+}
+
+.dopblock2 {
+    background: url(./JPG/DCvsMarvel.jpg);
+    background-repeat: round;
+    width: 66%;
+    height: 100%;
+    opacity: 0.9;
+}
+
+.DC {
+    float: right;
+}
+
+.super {
+    float: right;
+}
+
+.DC {
+    color:azure;
+    text-align: justify;
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 14px;
+}
+
+.DC1 {
+    color:azure;
+    text-align: justify;
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 14px;
+}
+
+.dopblock3 {
+    background: url(./JPG/Batman.jpg);
+    background-repeat: round;
+    width: 27%;
+    height: 100%;
+    border: 7px inset rgba(164,28,161,0.78);}
+
+.h3u {
+    text-align: center;
+    margin: 1px;
+    color:rgb(228, 3, 3);
+}
+
+.MST {
+    display: flex;
+    background-color: blue;
+    opacity: 0.9;
+    width: 97%;
+    height: 200px;
+    border: 7px ridge #A49B33;,0.58);
+    border-radius: 0px 35px 35px 0px;
+}
+
+.tanos {
+    background-repeat: round;
+    opacity: 0.9;
+}
+
+.TMS {
+    float: left;
+    color:azure;
+    text-align: justify;
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 15px;
+}
+
+.h3m {
+    text-align: center;
+    margin: 1px;
+    color:rgb(228, 3, 3);
+}
+
+.LIGA {
+    display: flex;
+    background-color: blue;
+    opacity: 0.9;
+    width: 97%;
+    height: 200px;
+    border: 7px ridge #A49B33;,0.58);
+    border-radius: 0px 35px 35px 0px;   
+}
+
+.LIGIMG {
+    background-repeat: round;
+    opacity: 0.9;
+}
+
+.liginf {
+    float: left;
+    color:azure;
+    text-align: justify;
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 13px;    
+}
+
+.h3D {
+    text-align: center;
+    margin: 1px;
+    color:rgb(228, 3, 3);
+}
+
+.DED {
+    display: flex;
+    background-color: blue;
+    opacity: 0.9;
+    width: 97%;
+    height: 200px;
+    border: 7px ridge #A49B33;,0.58);
+    border-radius: 0px 35px 35px 0px;  
+}
+
+.DEDPUL {
+    background-repeat: round;
+    opacity: 0.9;
+}
+
+.DEDDED {
+    float: left;
+    color:azure;
+    text-align: justify;
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 13px;    
+}
+
+.borderinfo {
+    width: 100%;
+    height: 11.5%;
+    justify-content: space-between; 
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.logotip {
+    background:rgb(253, 253, 255);
+    opacity: 0.9;
+    width: 300px;
+    height: 70px;
+    border: 5px ridge #A49B33;
+    border-radius: 26px 36px 36px 26px;    
+    float: right;
+    display: flex;
+    align-items: center;
+}
+
+.polosa {
+    width: 100%;
+    height: 20px;
+    background:blue;
+    opacity: 0.9;
+    border-radius: 10px 10px 10px 10px;
+    display: flex;
+}
+
+.log {
+    align: left;
+    font-size: 17px;    
+}
+
+.clic1{
+    color:darkblue;
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+.clic2 {
+    color:darkblue;
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+.clic3 {
+    color:darkblue;
+    border-radius: 10px 10px 10px 10px;
+    display: block;
+}
+/* поле регистрации */
+
+#modal {
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    color:azure;
+    text-align: justify;
+    background-repeat: round;
+    display: none;
+}
+
+.fonstatik{
+    width: 500px;
+    height: 600px;
+    background: url(./JPG/МЫVS.jpg);
+    border: 2px solid;
+    border-radius: 56px 66px 66px 56px;
+    background-repeat: round;
+    display: grid;
+    top: 100px;
+    left: 400px;
+    position: absolute;
+}
+
+#modal:target {
+    display: block;
+}
+.crec {
+    background-color: brown;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.crec:hover{
+    background-color: rgb(209, 192, 97);
+    border-radius: 10px 10px 10px 10px;
+    left: 50;
+    transition: all 1s;
+
+}
+
+h4, .crec {
+    text-align: center;
+    padding: 13px;
+}
+
+input {
+    border: 2px solid;
+    border-radius: 10px 10px 10px 10px;
+    margin: 10px;
+}
+
+.inter {
+    display: contents;
+}
+
+form {
+    min-height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+div {
+    margin: 8px;    
+}
+
+.fedy {
+    background-repeat: round;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #A49B33;
+}
+
+input:invalid {
+    border: 1px solid red;
+}
+
+input:valid {
+    border: 1px solid green;
+}
+
+@import '//codepen.io/chrisdothtml/pen/ojLzJK.css';
+.social-btns .btn,
+.social-btns .btn:before,
+.social-btns .btn .fa {
+  transition-timing-function: cubic-bezier(0.31, -0.105, 0.43, 1.59);
+}
+
+.social-btns {
+  width: 300px;
+  background: #8269A4;
+  border: 5px outset #6A3BA4;
+  border-radius: 40px 40px 40px 40px;
+}
+
+.social-btns .btn:before {
+  top: 90%;
+  left: -110%;
+}
+
+.social-btns .btn .fa {
+  -webkit-transform: scale(0.8);
+   transform: scale(0.8);
+}
+
+.social-btns .btn.facebook:before {
+  background-color: #3b5998;
+}
+
+.social-btns .btn.facebook .fa {
+  color: #3b5998;
+}
+
+.social-btns .btn.twitter:before {
+  backg
+  round-color: #3cf;
+}
+.social-btns .btn.twitter .fa {
+  color: #3cf;
+}
+
+.social-btns .btn.google:before {
+  background-color: #dc4a38;
+}
+
+.social-btns .btn.google .fa {
+  color: #dc4a38;
+}
+
+.social-btns .btn.dribbble:before {
+  background-color: #f26798;
+}
+
+.social-btns .btn.dribbble .fa {
+  color: #f26798;
+}
+
+.social-btns .btn.skype:before {
+  background-color: #00aff0;
+}
+
+.social-btns .btn.skype .fa {
+  color: #00aff0;
+}
+
+.social-btns .btn:hover:before {
+  top: -10%;
+  left: -10%;
+}
+
+.social-btns .btn:hover .fa {
+  color: #fff;
+  -webkit-transform: scale(1);
+  transform: scale(1);
+}
+
+.social-btns {
+  font-size: 0;
+  text-align: center;
+  bottom: 0;
+}
+
+.social-btns .btn {
+  display: inline-block;
+  background-color: #fff;
+  width: 39px;
+  height: 49px;
+  line-height: 48px;
+  margin: 18px 9px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 58%;
+  box-shadow: 0 5px 15px -5px rgb(0 0 0 / 10%);
+  opacity: 0.99;
+}
+
+.social-btns .btn:before {
+  content: '';
+  width: 120%;
+  height: 120%;
+  position: absolute;
+  transform: rotate(45deg);
+}
+
+.social-btns .btn .fa {
+  font-size: 38px;
+  vertical-align: middle;
+}
